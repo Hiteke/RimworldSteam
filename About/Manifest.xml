@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Manifest>
+  <identifier>Steam</identifier>
+  <manifestUri>https://raw.githubusercontent.com/Hiteke/RimworldSteam/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Hiteke/RimworldSteam/releases/latest</downloadUri>
+</Manifest>
